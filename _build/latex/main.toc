@@ -1,0 +1,8 @@
+\babel@toc {english}{}
+\contentsline {chapter}{Table of contents}{i}{chapter*.1}
+\contentsline {chapter}{List of figures}{ii}{chapter*.2}
+\contentsline {chapter}{List of tables}{iii}{chapter*.3}
+\contentsline {chapter}{\numberline {1}Network Extraction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Physical Properties Calculation}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Guid:}{2}{section.2.1}
+\contentsline {chapter}{\numberline {3}Indices and tables}{3}{chapter.3}

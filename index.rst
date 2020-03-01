@@ -3,21 +3,35 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Pore Network Modelling (PNM)
-============================
+*************
+**CFD Tools**
+*************
 
-Network Extraction
-==================
+1. Single-phase
+===============
 
+1.1 OpenFoam
+------------
 
+2. Two-phase
+============
 
-Physical Properties Calculation
-===============================
+2.1 LBPM
+--------
 
+3. Single- and Two-phase
+========================
 
-Guid:
-^^^^^
+3.1 Pore Network Modelling (PNM)
+--------------------------------
 
+3.1.1 Network Extraction
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+3.1.2 Physical Properties Calculation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Procedure here
 
 
 .. toctree::
